@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+
+}
+
+#headers{
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+#b{
+    display: flex;
+}
+#b h1{
+    background-color: rgb(131, 227, 168);
+    width: 60px;
+    height: 60px;
+   
+    padding: 0px;
+    text-align: center;
+    
+    margin: 0px;
+    border-radius: 40px;
+}
